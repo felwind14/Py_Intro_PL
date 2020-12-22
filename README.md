@@ -1,2 +1,2 @@
 # Intropy_DS
-Examples followed in PLAXIS with some modifications
+Examples followed in PLATZI with some modifications
