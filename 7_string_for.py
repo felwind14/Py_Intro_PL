@@ -11,9 +11,7 @@ def run():
 
     list="".join(list) #join list element as a string
     print(list)
-    print(type(list))  
-     
-
+    print(type(list))   
 
 if __name__ == '__main__':
     run()
