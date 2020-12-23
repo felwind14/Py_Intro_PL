@@ -38,7 +38,6 @@ def run():
         'Argentina' : 44938712,
         'Brazil' : 210147125,
         'Colombia' : 507372424,
-
     }
     
     # print(population_countries["USA"])
@@ -47,8 +46,8 @@ def run():
     #Using for loop##
     ##################
 
-    # for country in population_countries.keys():   ##To print keys
-    # for country in population_countries.values():     #To print values
+    # for country in population_countries.keys():   ##To print keys(country)
+    # for country in population_countries.values():     #To print values(population)
     #     print(country)
 
 
