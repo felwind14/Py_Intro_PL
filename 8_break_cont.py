@@ -35,11 +35,11 @@ def run():
     pr = 0
     while i <= 10:
         pr = num * i
-        i += 1 
         if num % 2 == 0:
             print("Write an odd number")
             break
-        print(f" {num} times {i-1} equals: {pr}")
+        print(f" {num} times {i} equals: {pr}")
+        i += 1 
 
 
 if __name__ == '__main__':
